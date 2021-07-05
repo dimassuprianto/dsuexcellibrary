@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>DSUExcelLibrary</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>dimas_suprianto</Authors>
     <Company>dimsup</Company>
   </PropertyGroup>
